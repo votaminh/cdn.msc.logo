@@ -1,0 +1,9 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="210px" height="86.315px" viewBox="0 0 210 86.315" enable-background="new 0 0 210 86.315" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="43.1577" x2="210" y2="43.1577">
+    <stop offset="0" style="stop-color:#FE820C"/>
+    <stop offset="1" style="stop-color:#FD590A"/>
+  </linearGradient>
+  <path fill="url(#SVGID_1_)" d="M183.048,0c12.983,18.199,14.51,34.61,4.371,47.532c-13.421,17.109-46.066,27.184-89.564,27.642
+	C54.234,75.635,42.18,73.584,0,56.379C40.703,79.26,55.856,85.342,106.386,86.266c47.854,0.875,85.634-10.058,98.604-28.531
+	C216.162,41.83,208.564,21.886,183.048,0z" class="color c1"/>
+</svg>

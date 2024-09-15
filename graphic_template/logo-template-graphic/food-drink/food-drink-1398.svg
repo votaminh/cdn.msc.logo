@@ -1,0 +1,8 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="285.83px" height="285.83px" viewBox="0 0 285.83 285.83" enable-background="new 0 0 285.83 285.83" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -59.1974 142.915)" fill="#2C3D3D" cx="142.915" cy="142.915" rx="142.915" ry="142.915" class="color c1"/>
+    <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -59.1974 142.915)" fill="#445E5E" cx="142.915" cy="142.915" rx="139.323" ry="139.323" class="color c2"/>
+    <circle fill="#D8E6C1" cx="142.915" cy="142.915" r="134.904" class="color c3"/>
+    <ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 -59.1974 142.915)" fill="#1A2424" cx="142.915" cy="142.915" rx="88.175" ry="88.175" class="color c4"/>
+  </g>
+</svg>

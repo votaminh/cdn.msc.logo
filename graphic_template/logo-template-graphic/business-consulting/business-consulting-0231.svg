@@ -1,0 +1,6 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="37.4px" height="37.4px" viewBox="0 0 37.4 37.4" enable-background="new 0 0 37.4 37.4" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path fill="#90C531" d="M11,1.7c9.4-4.3,20.5-0.1,24.8,9.3s0.1,20.5-9.3,24.8S6,35.8,1.7,26.4S1.6,6,11,1.7z" class="color c1"/>
+  <path opacity="0.15" fill="#FFFFFF" enable-background="new    " d="M18.3,23.1C11.6,28,7.6,30.7,4,24.6c-3.6-6-1.1-14.9,5.6-19.8
+	C16.2-0.1,25,1.4,29.1,6.9C33.3,12.6,24.9,18.2,18.3,23.1z" class="color c2"/>
+  <ellipse transform="matrix(0.8254 -0.5646 0.5646 0.8254 -1.5185 9.3188)" opacity="0.15" fill="#FFFFFF" enable-background="new    " cx="14.305" cy="7.114" rx="4.9" ry="2.8" class="color c2"/>
+</svg>

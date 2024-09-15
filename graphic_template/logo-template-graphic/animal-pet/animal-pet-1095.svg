@@ -1,0 +1,29 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="200px" height="124.896px" viewBox="0 0 200 124.896" enable-background="new 0 0 200 124.896" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <ellipse fill="#89562F" cx="171.263" cy="59.099" rx="28.737" ry="28.438" class="color c1"/>
+  <ellipse fill="#FEFFF5" cx="171.264" cy="59.099" rx="19.996" ry="19.787" class="color c2"/>
+  <ellipse fill="#89562F" cx="28.737" cy="56.361" rx="28.737" ry="28.436" class="color c1"/>
+  <ellipse fill="#FEFFF5" cx="28.737" cy="56.361" rx="19.995" ry="19.787" class="color c2"/>
+  <g>
+    <circle fill="#905F34" cx="98.809" cy="62.447" r="62.447" class="color c3"/>
+  </g>
+  <path fill="#FEFFF5" d="M132.053,26.664c-13.355-11.068-29.78-0.283-33.797,2.688c-4.021-2.971-20.443-13.756-33.799-2.688
+	c-20.53,17.012-13.294,39.438-5.318,44.287c0,0-16.299,38.76,39.104,44.166v0.002c0.005,0,0.008,0,0.014,0c0.002,0,0.007,0,0.012,0
+	v-0.002c55.4-5.406,39.104-44.166,39.104-44.166C145.346,66.101,152.584,43.676,132.053,26.664z" class="color c2"/>
+  <g>
+    <g>
+      <path fill="#630069" d="M106.215,70.002c-1.299-2.783-7.792-2.412-7.792-2.412s-6.494-0.371-7.792,2.412
+			c-1.298,2.781,3.339,9.275,7.792,10.387C102.874,79.277,107.514,72.783,106.215,70.002z" class="color c4"/>
+    </g>
+    <rect x="97.657" y="78.998" fill="#630069" width="1.531" height="15.166" class="color c4"/>
+    <g>
+      <g>
+        <ellipse fill="#630069" cx="114.656" cy="51.357" rx="5.577" ry="5.549" class="color c4"/>
+      </g>
+      <g>
+        <ellipse fill="#630069" cx="82.19" cy="51.357" rx="5.577" ry="5.549" class="color c4"/>
+      </g>
+    </g>
+  </g>
+  <ellipse opacity="0.5" fill="#F19F7C" cx="119.724" cy="65.824" rx="9.472" ry="7.096" class="color c5"/>
+  <ellipse opacity="0.5" fill="#F19F7C" cx="75.201" cy="65.824" rx="9.472" ry="7.096" class="color c5"/>
+</svg>

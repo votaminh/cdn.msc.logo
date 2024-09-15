@@ -1,0 +1,12 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="12.061px" height="11.473px" viewBox="0 0 12.061 11.473" enable-background="new 0 0 12.061 11.473" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-114.7349" y1="-89.6064" x2="210.2648" y2="170.3932">
+    <stop offset="0" style="stop-color:#FFFFFF"/>
+    <stop offset="0.1795" style="stop-color:#F1F0F1"/>
+    <stop offset="0.5238" style="stop-color:#CBC9CC"/>
+    <stop offset="0.9943" style="stop-color:#8F8B91"/>
+    <stop offset="1" style="stop-color:#8E8A90"/>
+    <stop offset="1" style="stop-color:#D1D3D4"/>
+  </linearGradient>
+  <polygon fill="url(#SVGID_1_)" points="6.03,0 7.894,3.775 12.061,4.381 9.045,7.32 9.759,11.473 6.03,9.512 2.304,11.473 
+	3.015,7.32 0,4.381 4.167,3.775 " class="color c1"/>
+</svg>

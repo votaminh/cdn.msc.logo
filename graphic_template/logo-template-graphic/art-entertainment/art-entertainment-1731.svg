@@ -1,0 +1,16 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="305.63px" height="321.362px" viewBox="0 0 305.63 321.362" enable-background="new 0 0 305.63 321.362" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <polygon fill="#FCEF5A" points="120.11,56.657 152.822,0 185.527,56.657 " class="color c1"/>
+  <polygon fill="#FCEF5A" points="65.213,95.755 58.374,30.694 118.141,57.301 " class="color c1"/>
+  <polygon fill="#FFB600" points="43.778,159.644 0,111.027 63.99,97.429 " class="color c2"/>
+  <polygon fill="#FFB600" points="63.99,223.932 0,210.33 43.778,161.714 " class="color c2"/>
+  <polygon fill="#FFB600" points="118.133,264.064 58.374,290.674 65.213,225.613 " class="color c2"/>
+  <polygon fill="#FFB600" points="185.527,264.705 152.822,321.362 120.11,264.705 " class="color c2"/>
+  <polygon fill="#FFB600" points="240.427,225.613 247.261,290.674 187.5,264.064 " class="color c2"/>
+  <polygon fill="#FFB600" points="261.856,161.724 305.63,210.33 241.647,223.932 " class="color c2"/>
+  <polygon fill="#FFB600" points="241.647,97.429 305.63,111.027 261.863,159.644 " class="color c2"/>
+  <polygon fill="#FFB600" points="187.5,57.301 247.261,30.694 240.427,95.755 " class="color c2"/>
+  <path fill="#F9CF00" d="M152.819,50.661v0.007c-60.775,0-110.024,49.247-110.024,110.017c0,5.61,0.421,11.114,1.228,16.493
+	c0.756,4.991,1.841,9.882,3.252,14.643c4.701,16.003,12.956,30.48,23.836,42.542c4.059,4.505,8.49,8.665,13.251,12.443
+	c18.78,14.952,42.567,23.887,68.457,23.887v0.007c60.761,0,110.02-49.257,110.02-110.015
+	C262.839,99.919,213.58,50.661,152.819,50.661z" class="color c3"/>
+</svg>

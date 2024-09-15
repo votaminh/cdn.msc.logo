@@ -1,0 +1,19 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="73.432px" height="194.253px" viewBox="0 0 73.432 194.253" enable-background="new 0 0 73.432 194.253" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect x="18.238" y="37.688" fill="#7D7363" width="36.576" height="15.193" class="color c1"/>
+    <rect x="20.115" y="37.688" opacity="0.5" fill="#DADEE4" width="3.518" height="15.193" class="color c2"/>
+    <rect x="36.531" y="35.943" fill="#C4C9D1" width="18.283" height="16.939" class="color c3"/>
+    <polygon fill="#C4C9D1" points="64.285,189.589 8.771,189.589 18.752,108.308 15.615,50.347 57.445,50.347 54.307,108.357 	" class="color c3"/>
+    <path fill="#C4C9D1" d="M66.514,12.468c0-2.224-13.426-8.298-29.98-8.298c-16.568,0-29.986,6.074-29.986,8.298l7.301,27.519h45.351
+		l7.317-27.516l0,0C66.514,12.468,66.514,12.468,66.514,12.468z" class="color c3"/>
+    <path fill="#DADEE4" d="M14.729,12.852c0,0-3.65-1.771-8.027-3.828c-2.156,1.515-3.398,2.81-3.398,3.444l8.09,27.519h6.85l0,0
+		L14.729,12.852z" class="color c2"/>
+    <path fill="#DADEE4" d="M61.654,39.986l8.104-27.519l0,0c0-0.908-2.504-3.15-6.682-5.489H43.887L40.68,39.986H61.654z" class="color c2"/>
+    <path fill="#E1E6EB" d="M36.531,0C18.176,0,3.301,10.244,3.301,12.468l0.115,0.384h66.229l0.111-0.384l0,0
+		C69.758,10.244,54.881,0,36.531,0z" class="color c4"/>
+    <polygon fill="#DADEE4" points="56.35,108.358 59.846,50.349 39.674,50.349 36.717,108.308 41.777,189.589 67.475,189.589 	" class="color c2"/>
+    <polygon fill="#DADEE4" points="16.898,108.358 13.402,50.349 20.727,50.349 23.686,108.308 18.619,189.589 5.773,189.589 	" class="color c2"/>
+    <rect x="0" y="179.149" fill="#C4C9D1" width="73.432" height="15.104" class="color c3"/>
+    <rect x="0" y="179.149" fill="#DADEE4" width="73.432" height="4.838" class="color c2"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="65.428px" height="65.428px" viewBox="0 0 65.428 65.428" enable-background="new 0 0 65.428 65.428" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <circle fill="#3B3B3B" cx="32.714" cy="32.714" r="32.714" class="color c1"/>
+  <path fill="#202020" d="M32.917,59.737c-14.789,0-26.821-12.031-26.821-26.82S18.128,6.096,32.917,6.096
+	c14.79,0,26.82,12.032,26.82,26.821S47.707,59.737,32.917,59.737z M32.917,10.16c-12.548,0-22.757,10.208-22.757,22.757
+	s10.209,22.758,22.757,22.758c12.549,0,22.758-10.209,22.758-22.758S45.466,10.16,32.917,10.16z" class="color c2"/>
+  <circle fill="#3A3A3A" cx="32.714" cy="32.714" r="18.49" class="color c3"/>
+  <circle fill="#202020" cx="32.511" cy="32.511" r="8.534" class="color c2"/>
+  <path opacity="0.05" fill="#FFFFFF" enable-background="new    " d="M49.579,33.729h-4.063c0-4.09-2.074-7.829-5.546-10l2.153-3.445
+	C46.792,23.203,49.579,28.23,49.579,33.729z" class="color c4"/>
+</svg>

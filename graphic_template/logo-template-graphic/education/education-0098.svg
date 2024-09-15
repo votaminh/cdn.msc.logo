@@ -1,0 +1,27 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="52.451px" height="146.224px" viewBox="0 0 52.451 146.224" enable-background="new 0 0 52.451 146.224" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill="#D4385C" d="M28.672,144.632l9.818-20.277l-24.672-0.031l9.757,20.303C24.606,146.755,27.637,146.757,28.672,144.632z" class="color c1"/>
+  <polygon fill="#F4F6EF" points="52.368,95.707 52.371,93.357 0.002,93.313 0,95.807 14.388,125.54 37.939,125.56 " class="color c2"/>
+  <g>
+    <g>
+      <g>
+        <rect x="0.037" y="13.491" transform="matrix(-1 -8.951742e-004 8.951742e-004 -1 52.394 108.1016)" fill="#F29261" width="52.369" height="81.096" class="color c3"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g>
+      <g>
+        <rect x="42.068" y="13.51" transform="matrix(-1 -8.501131e-004 8.501131e-004 -1 94.4277 108.1563)" fill="#F0C67D" width="10.338" height="81.096" class="color c4"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g>
+      <g>
+        <rect x="0.077" y="0.022" transform="matrix(-1 -8.577425e-004 8.577425e-004 -1 52.5159 14.2393)" fill="#4C4C72" width="52.369" height="14.172" class="color c5"/>
+      </g>
+    </g>
+  </g>
+  <polygon opacity="0.2" fill="#1E1E1E" points="15.731,94.579 15.723,94.577 16.08,94.578 16.15,13.482 16.136,13.483 16.147,0.015 
+	0.085,0 0.071,14.172 0.071,14.172 0.003,93.313 0.002,93.313 0,95.807 14.388,125.54 23.749,125.548 " class="color c6"/>
+</svg>

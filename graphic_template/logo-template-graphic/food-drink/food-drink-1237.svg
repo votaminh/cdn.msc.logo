@@ -1,0 +1,10 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="73.85px" height="86.676px" viewBox="0 0 73.85 86.676" enable-background="new 0 0 73.85 86.676" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <rect x="7.473" y="9.387" transform="matrix(0.888 -0.4599 0.4599 0.888 -6.6977 9.7788)" fill="#5F93EB" width="18.5" height="18.5" class="color c1"/>
+  <rect x="7.473" y="9.387" transform="matrix(0.888 -0.4599 0.4599 0.888 -6.6977 9.7788)" opacity="0.1" fill="#4A1805" enable-background="new    " width="18.5" height="18.5" class="color c2"/>
+  <path fill="#5F93EB" d="M70.176,86.676c3.7-3.3,4.8-8.8,2.4-13.4l-26.8-51.7c-2.8-5.5-9.6-7.6-15.1-4.8l-23.4,12.2
+	c-5.5,2.8-7.6,9.6-4.8,15.1l22.1,42.6H70.176z" class="color c1"/>
+  <path opacity="0.1" fill="#4A1805" enable-background="new    " d="M16.576,71.376l7.9,15.3h45.6c3.7-3.3,4.8-8.8,2.4-13.4
+	l-26.7-51.7c-2.8-5.5-9.6-7.6-15.1-4.8l-4.9,2.6c-9.1,8-9.1,23.8-6.3,33.1C17.776,57.776,14.976,65.376,16.576,71.376z" class="color c2"/>
+  <path fill="#5F93EB" d="M24.076,11.476l-17.3,9c-0.8,0.4-1.8,0.1-2.2-0.7l-4.4-8.4c-0.4-0.8-0.1-1.8,0.7-2.2l17.3-9
+	c0.8-0.4,1.8-0.1,2.2,0.7l4.4,8.4C25.176,10.076,24.876,11.076,24.076,11.476z" class="color c1"/>
+</svg>

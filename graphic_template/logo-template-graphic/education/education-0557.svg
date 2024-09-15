@@ -1,0 +1,27 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="271px" height="220.671px" viewBox="0 0 271 220.671" enable-background="new 0 0 271 220.671" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <g>
+      <g>
+        <path fill-rule="evenodd" clip-rule="evenodd" fill="#F15A24" d="M232.286,189.7V73.557h-23.229V24.313H0v10.53h15.486v23.229H0
+				V189.7h15.486v23.229H0v7.743h232.286v-7.743H216.8V189.7H232.286z M123.886,34.843h27.1v23.229h-27.1V34.843z M81.3,34.843h27.1
+				v23.229H81.3V34.843z M61.943,212.929h-27.1V189.7h27.1V212.929z M61.943,58.071h-27.1V34.843h27.1V58.071z M108.4,212.929H81.3
+				V189.7h27.1V212.929z M150.986,212.929h-27.1V189.7h27.1V212.929z M197.443,212.929h-27.1V189.7h27.1V212.929z M197.443,58.071
+				h-27.1V34.843h27.1V58.071z" class="color c1"/>
+        <rect x="212.929" y="46.457" fill-rule="evenodd" clip-rule="evenodd" fill="#F15A24" width="23.229" height="23.229" class="color c1"/>
+        <rect x="212.929" y="23.229" fill-rule="evenodd" clip-rule="evenodd" fill="#F15A24" width="19.357" height="19.357" class="color c1"/>
+        <rect x="240.029" y="15.486" fill-rule="evenodd" clip-rule="evenodd" fill="#F15A24" width="19.357" height="19.357" class="color c1"/>
+        <rect x="259.386" fill-rule="evenodd" clip-rule="evenodd" fill="#F15A24" width="11.614" height="11.614" class="color c1"/>
+        <rect x="251.643" y="42.586" fill-rule="evenodd" clip-rule="evenodd" fill="#F15A24" width="7.743" height="7.743" class="color c1"/>
+        <rect x="228.414" y="11.614" fill-rule="evenodd" clip-rule="evenodd" fill="#F15A24" width="3.871" height="3.871" class="color c1"/>
+      </g>
+      <g>
+        <polygon fill="#F15A24" points="157.838,79.016 157.838,79.016 157.838,79.016 			" class="color c1"/>
+      </g>
+      <g>
+        <polygon fill="#F15A24" points="68.515,79.016 68.515,79.016 68.515,79.016 			" class="color c1"/>
+      </g>
+    </g>
+    <path fill="#F09D00" d="M140.61,120.643L99.881,97.128c-1.914-1.105-4.307,0.276-4.307,2.487v47.03c0,2.21,2.393,3.592,4.307,2.487
+		l40.729-23.515C142.524,124.511,142.524,121.748,140.61,120.643z" class="color c2"/>
+  </g>
+</svg>

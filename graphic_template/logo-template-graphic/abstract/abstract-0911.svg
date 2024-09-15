@@ -1,0 +1,14 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="195px" height="195px" viewBox="0 0 195 195" enable-background="new 0 0 195 195" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g id="XMLID_121_">
+    <path id="XMLID_123_" fill="#1851CB" d="M38.4,97.5H22.8c0,41.3,33.5,74.7,74.7,74.7v-15.6C64.9,156.6,38.4,130.1,38.4,97.5z" class="color c1"/>
+    <path id="XMLID_122_" fill="#1851CB" d="M156.6,97.5h15.6c0-41.3-33.5-74.7-74.7-74.7v15.6C130.1,38.4,156.6,64.9,156.6,97.5z" class="color c1"/>
+  </g>
+  <g id="XMLID_117_">
+    <path id="XMLID_118_" fill="#00F3FF" d="M181.9,97.5c0-46.6-37.8-84.4-84.4-84.4S13.1,50.9,13.1,97.5s37.8,84.4,84.4,84.4
+		S181.9,144.1,181.9,97.5z M30.7,97.5c0-36.9,29.9-66.8,66.8-66.8s66.8,29.9,66.8,66.8s-29.9,66.8-66.8,66.8S30.7,134.4,30.7,97.5z" class="color c2"/>
+  </g>
+  <g id="XMLID_114_">
+    <path id="XMLID_116_" fill="#1089DD" d="M97.5,174.6V195c53.8,0,97.5-43.7,97.5-97.5h-20.4C174.6,140.1,140.1,174.6,97.5,174.6z" class="color c3"/>
+    <path id="XMLID_115_" fill="#1089DD" d="M97.5,20.4V0C43.7,0,0,43.7,0,97.5h20.4C20.4,54.9,54.9,20.4,97.5,20.4z" class="color c3"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="154.005px" height="154.003px" viewBox="0 0 154.005 154.003" enable-background="new 0 0 154.005 154.003" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill-rule="evenodd" clip-rule="evenodd" fill="#6B5E56" d="M0,77.002C0,34.476,34.474,0,77.002,0s77.002,34.476,77.002,77.002
+	l-77.002,77.001L0,77.002z" class="color c1"/>
+  <g>
+    <circle fill="#FFFFFF" cx="40.908" cy="55.344" r="8.422" class="color c2"/>
+    <circle fill="#FFFFFF" cx="113.097" cy="55.344" r="8.422" class="color c2"/>
+  </g>
+  <path fill="#FFFFFF" d="M80.348,116.444c5.235-1.891,12.363-7.563,12.363-13.236c0-8-9.746-8-15.709-8s-15.709-0.146-15.709,7.854
+	c0,5.672,7.272,11.49,12.654,13.381C73.947,116.444,77.002,117.633,80.348,116.444z" class="color c2"/>
+</svg>

@@ -1,0 +1,54 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="220px" height="97.676px" viewBox="0 0 220 97.676" enable-background="new 0 0 220 97.676" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill="#FCE0E5" d="M0,86.93c0,0,25.542-36.183,61.473-42.198c50.946-8.53,64.839,27.049,63.921,34.39
+	c0,0-10.445,0.983-8.752,1.196S93.574,67.677,93.574,67.677L61.396,63.65C61.396,63.65,30.205,65.479,0,86.93z" class="color c1"/>
+  <path fill="#141414" d="M52.827,65.18c6.581-1.128,13.298-1.096,19.937-1.781c0.395-0.041,0.789-0.086,1.185-0.127
+	c4.087,4.299,6.284,10.207,5.508,16.404c-1.404,11.227-12.022,19.143-23.713,17.678C44.052,95.891,35.713,85.6,37.121,74.375
+	c0.228-1.832,0.706-3.573,1.391-5.201C43.224,67.572,47.948,66.016,52.827,65.18z" class="color c2"/>
+  <circle fill="#FDFFFF" cx="52.56" cy="76.117" r="3.413" class="color c3"/>
+  <g>
+    <circle fill="#FF69CA" cx="66.226" cy="49.25" r="1.126" class="color c4"/>
+    <circle fill="#FF69CA" cx="62.831" cy="45.63" r="0.778" class="color c4"/>
+    <circle fill="#FF69CA" cx="51.895" cy="49.321" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="15.73" cy="57.6" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="23.795" cy="53.473" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="57.463" cy="54.619" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="110.015" cy="34.138" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="98.089" cy="28.266" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="107.34" cy="18.693" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="116.736" cy="27.394" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="93.542" cy="39.329" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="123.706" cy="36.928" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="50.67" cy="29.28" r="0.778" class="color c4"/>
+    <circle fill="#FF69CA" cx="38.86" cy="40.379" r="0.78" class="color c4"/>
+    <circle fill="#FF69CA" cx="70.585" cy="18.096" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="57.392" cy="40.288" r="0.78" class="color c4"/>
+    <circle fill="#FF69CA" cx="11.171" cy="66.809" r="0.778" class="color c4"/>
+    <circle fill="#FF69CA" cx="47.374" cy="45.707" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="43.179" cy="46.853" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="25.814" cy="43.936" r="0.78" class="color c4"/>
+    <circle fill="#FF69CA" cx="26.739" cy="63.63" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="75.693" cy="28.376" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="79.868" cy="23.505" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="87.535" cy="32.734" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="122.869" cy="25.442" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="64.957" cy="24.358" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="35.169" cy="55.856" r="0.779" class="color c4"/>
+    <circle fill="#FF69CA" cx="58.544" cy="45.651" r="1.125" class="color c4"/>
+    <circle fill="#FF69CA" cx="48.539" cy="53.537" r="1.126" class="color c4"/>
+    <circle fill="#FF69CA" cx="43.218" cy="54.69" r="1.126" class="color c4"/>
+    <circle fill="#FF69CA" cx="65.024" cy="33.97" r="1.126" class="color c4"/>
+    <circle fill="#FF69CA" cx="50.709" cy="37.29" r="1.125" class="color c4"/>
+    <circle fill="#FF69CA" cx="81.847" cy="38.261" r="1.126" class="color c4"/>
+  </g>
+  <path fill="#141414" d="M1.872,44.533c68.646-58.314,144.11-33.583,144.11-33.583l-7.967-5.691
+	C72.024-12.953,10.313,21.982,10.313,21.982s-1.311,0.721-2.998,2.343c-0.255,0.365-0.503,0.74-0.74,1.133
+	c-1.688,2.794-2.563,5.681-2.6,8.021c-0.429-1.455-0.328-3.381,0.255-5.466c-1.297,1.935-2.517,4.382-3.317,7.407
+	C-0.93,42.381,1.872,44.533,1.872,44.533z" class="color c2"/>
+  <path fill="#141414" d="M220,36.492c-11.413,16.314-43.544,30.06-82.355,33.48c-2.785,0.242-5.545,0.428-8.275,0.559
+	c35.91-10.014,62.439-28.201,66.488-45.339c-4.412,15.317-27.793,29.607-59.424,36.819c-5.031,1.147-24.334,5.407-28.182,4.409
+	c-8.287-2.15-16.291-4.939-22.176-6.453C33.456,46.442,0,86.93,0,86.93c48.855-29.5,86.26-16.871,102.046-10.123
+	c13.322,5.695,26.737,6.303,28.116,6.369c32.441,1.559,61.074-4.869,76.426-15.676c-11.898,6.865-35.919,10.714-63.372,9.23
+	C182.066,70.4,212.618,53.975,220,36.492z" class="color c2"/>
+  <path fill="#141414" d="M99.283,90.764c-7.41,4.233-18.067,6.913-18.067,6.913c13.713,0.036,26.348-5.916,35.704-12.018
+	c-2.714-0.511-5.748-1.209-8.925-2.16C106.405,85.447,103.604,88.294,99.283,90.764z" class="color c2"/>
+</svg>

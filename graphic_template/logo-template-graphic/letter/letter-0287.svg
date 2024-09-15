@@ -1,0 +1,15 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="115.36px" height="178.333px" viewBox="0 0 115.36 178.333" enable-background="new 0 0 115.36 178.333" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <rect x="16.861" y="1.5" fill="#FF97FB" width="37.333" height="161.333" class="color c1"/>
+  <path fill="#0B0C0C" d="M55.694,164.333H15.361V0h40.333V164.333z M18.361,161.333h34.333V3H18.361V161.333z" class="color c2"/>
+  <rect x="16.861" y="125.5" fill="#FF97FB" width="96.999" height="37.333" class="color c1"/>
+  <path fill="#0B0C0C" d="M115.36,164.333H15.361V124h99.999V164.333z M18.361,161.333h93.999V127H18.361V161.333z" class="color c2"/>
+  <polygon fill="#0B0C0C" points="0,13.969 15.427,0 17.44,2.224 1.996,16.208 " class="color c2"/>
+  <rect x="45.027" y="-1.881" transform="matrix(0.6741 0.7386 -0.7386 0.6741 21.4392 -31.5953)" fill="#0B0C0C" width="3" height="20.763" class="color c2"/>
+  <rect x="7.694" y="159.452" transform="matrix(0.6741 0.7386 -0.7386 0.6741 128.4347 48.55)" fill="#0B0C0C" width="3" height="20.763" class="color c2"/>
+  <rect x="104.693" y="122.119" transform="matrix(0.6741 0.7386 -0.7386 0.6741 132.4682 -35.2584)" fill="#0B0C0C" width="3" height="20.763" class="color c2"/>
+  <rect x="105.182" y="159.844" transform="matrix(0.6741 0.7386 -0.7386 0.6741 160.4911 -23.3265)" fill="#0B0C0C" width="3" height="20.763" class="color c2"/>
+  <rect x="1.528" y="15.5" fill="#9CD0FF" width="37.333" height="161.333" class="color c3"/>
+  <path fill="#0B0C0C" d="M40.361,178.333H0.028V14h40.333V178.333z M3.028,175.333h34.333V17H3.028V175.333z" class="color c2"/>
+  <rect x="1.528" y="139.5" fill="#9CD0FF" width="96.999" height="37.333" class="color c3"/>
+  <path fill="#0B0C0C" d="M100.027,178.333H0.028V138h99.999V178.333z M3.028,175.333h93.999V141H3.028V175.333z" class="color c2"/>
+</svg>

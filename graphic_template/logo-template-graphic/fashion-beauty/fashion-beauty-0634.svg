@@ -1,0 +1,7 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="75px" height="150px" viewBox="0 0 75 150" enable-background="new 0 0 75 150" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill="#E90851" d="M37.5,0L0,18.75v112.5L37.5,150L75,131.25V18.75L37.5,0z M37.5,1.875V15L13.33,27.081L1.67,19.79L37.5,1.875
+	z M37.5,148.125L1.67,130.206l11.66-7.291L37.5,135V148.125z M60,121.875l-22.5,11.25L15,121.875v-93.75l22.5-11.25L60,28.125
+	V121.875z M61.67,122.919V27.078l11.652-7.281l0.066,110.486L61.67,122.919z" class="color c1"/>
+  <path fill="#FC0E4F" d="M56.25,30v50.625L18.75,97.5V30l18.75-9.375L56.25,30z M18.75,108.875L56.25,92v-7.5l-37.5,16.875V108.875z
+	 M18.75,118.25l37.5-16.875V95.75l-37.5,16.875V118.25z" class="color c2"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="120px" height="120px" viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <path fill="#BA924C" d="M29,85V8.622C11.62,19.131,0,38.208,0,60c0,8.925,1.964,17.389,5.459,25H29z" class="color c1"/>
+  </g>
+  <g>
+    <path fill="#BA924C" d="M35,29h76.378C100.869,11.62,81.792,0,60,0c-8.926,0-17.387,1.964-25,5.459V29z" class="color c1"/>
+  </g>
+  <g>
+    <path fill="#BA924C" d="M85,91H8.622C19.131,108.38,38.208,120,60,120c8.926,0,17.387-1.964,25-5.459V91z" class="color c1"/>
+  </g>
+  <g>
+    <path fill="#BA924C" d="M91,35v76.378c17.38-10.51,29-29.586,29-51.378c0-8.925-1.964-17.387-5.459-25H91z" class="color c1"/>
+  </g>
+</svg>

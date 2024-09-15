@@ -1,0 +1,14 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="103.666px" height="103.666px" viewBox="0 0 103.666 103.666" enable-background="new 0 0 103.666 103.666" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" cx="51.833" cy="51.833" r="50.333" class="color c1"/>
+    <path fill="#BA9D5B" d="M51.833,103.666C23.252,103.666,0,80.414,0,51.833S23.252,0,51.833,0s51.833,23.252,51.833,51.833
+		S80.414,103.666,51.833,103.666z M51.833,3C24.906,3,3,24.906,3,51.833s21.906,48.833,48.833,48.833s48.833-21.906,48.833-48.833
+		S78.76,3,51.833,3z" class="color c2"/>
+  </g>
+  <g>
+    <circle fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" cx="51.833" cy="51.833" r="43.05" class="color c1"/>
+    <path fill="#BA9D5B" d="M51.833,96.383c-24.565,0-44.55-19.985-44.55-44.55s19.985-44.55,44.55-44.55s44.55,19.985,44.55,44.55
+		S76.398,96.383,51.833,96.383z M51.833,10.283c-22.911,0-41.55,18.639-41.55,41.55s18.639,41.55,41.55,41.55
+		s41.55-18.639,41.55-41.55S74.744,10.283,51.833,10.283z" class="color c2"/>
+  </g>
+</svg>

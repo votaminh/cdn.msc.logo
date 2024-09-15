@@ -1,0 +1,9 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="26.551px" height="29.551px" viewBox="0 0 26.551 29.551" enable-background="new 0 0 26.551 29.551" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse fill="#FFFFFF" cx="18.776" cy="21.778" rx="7.776" ry="7.776" class="color c1"/>
+    <path fill="#07063A" d="M22.665,18.86c0,2.146-1.742,3.889-3.889,3.889s-3.888-1.742-3.888-3.889s1.741-3.888,3.888-3.888
+		S22.665,16.713,22.665,18.86z" class="color c2"/>
+    <circle fill="#FFFFFF" cx="6" cy="6" r="6" class="color c1"/>
+    <circle fill="#07063A" cx="5" cy="5.75" r="4" class="color c2"/>
+  </g>
+</svg>

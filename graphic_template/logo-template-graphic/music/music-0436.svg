@@ -1,0 +1,13 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="55.223px" height="73.171px" viewBox="0 0 55.223 73.171" enable-background="new 0 0 55.223 73.171" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <path fill="#FFFFFF" d="M44.178,0H6.468v17.948H0v55.223h44.178c6.1,0,11.045-4.944,11.045-11.043V11.044
+		C55.223,4.944,50.277,0,44.178,0z M51.081,62.128c0,3.813-3.091,6.902-6.903,6.902H4.141V22.09h40.037
+		c2.613,0,5.013-0.909,6.903-2.427V62.128z M44.179,17.948H10.609V4.143h33.569c3.813,0,6.902,3.091,6.902,6.902
+		C51.081,14.857,47.991,17.948,44.179,17.948z" class="color c1"/>
+    <rect x="32.512" y="47.352" fill="#FFFFFF" width="13.806" height="4.142" class="color c1"/>
+    <rect x="32.512" y="39.068" fill="#FFFFFF" width="13.806" height="4.142" class="color c1"/>
+    <rect x="32.512" y="55.636" fill="#FFFFFF" width="13.806" height="4.143" class="color c1"/>
+    <rect x="7.663" y="30.785" fill="#FFFFFF" width="38.654" height="4.142" class="color c1"/>
+    <rect x="7.663" y="39.068" fill="#FFFFFF" width="20.708" height="20.71" class="color c1"/>
+  </g>
+</svg>

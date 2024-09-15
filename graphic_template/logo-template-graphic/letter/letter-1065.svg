@@ -1,0 +1,14 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="493.107px" height="500px" viewBox="0 0 493.107 500" enable-background="new 0 0 493.107 500" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path fill="#414193" d="M107.636,82.185l45.069,48.25h239.131l-42.418-48.25C260.869,72.641,180.276,72.641,107.636,82.185z" class="color c1"/>
+    <path fill="#414193" d="M288.441,270.943l45.069,44.539h62.565v-44.539C363.203,260.869,327.147,262.46,288.441,270.943z" class="color c1"/>
+    <path fill="#414193" d="M368.505,348.355l43.479,44.539h81.124l-42.947-44.539C424.709,335.631,397.137,336.691,368.505,348.355z" class="color c1"/>
+    <path fill="#414193" d="M107.636,454.4l45.068,45.6h238.601l-41.888-45.6C260.869,443.267,179.746,442.736,107.636,454.4z" class="color c1"/>
+    <path fill="#414193" d="M0,348.355l46.129,47.721h75.822l-39.767-47.721C46.66,336.161,19.089,336.161,0,348.355z" class="color c1"/>
+    <rect x="107.636" fill="#FFFFFF" width="241.782" height="82.185" class="color c2"/>
+    <rect x="107.636" y="372.217" fill="#FFFFFF" width="241.782" height="82.185" class="color c2"/>
+    <rect x="0" y="106.575" fill="#FFFFFF" width="82.185" height="241.782" class="color c2"/>
+    <polygon fill="#FFFFFF" points="398.728,188.759 368.505,188.759 288.441,188.759 288.441,270.943 368.505,270.943 
+		368.505,348.355 450.159,348.355 450.159,188.759 	" class="color c2"/>
+  </g>
+</svg>

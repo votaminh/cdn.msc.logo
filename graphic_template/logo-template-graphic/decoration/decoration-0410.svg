@@ -1,0 +1,10 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="34px" height="40px" viewBox="0 0 34 40" enable-background="new 0 0 34 40" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <circle fill="#FFFFFF" cx="19" cy="32" r="8" class="color c1"/>
+    <circle fill="#07063A" cx="19" cy="29" r="4" class="color c2"/>
+    <circle fill="#FFFFFF" cx="29" cy="5" r="5" class="color c1"/>
+    <circle fill="#07063A" cx="27" cy="5.125" r="2.5" class="color c2"/>
+    <circle fill="#FFFFFF" cx="6" cy="8" r="6" class="color c1"/>
+    <circle fill="#07063A" cx="5" cy="7.75" r="4" class="color c2"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="88.096px" height="22.165px" viewBox="0 0 88.096 22.165" enable-background="new 0 0 88.096 22.165" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path fill="#F8EC3B" d="M3.921,7.686c0,7.996,6.479,14.479,14.479,14.479s14.479-6.48,14.479-14.479H3.921z" class="color c1"/>
+  <path fill="#0A0A0A" d="M10.044,7.686c0,2.542,2.061,4.604,4.602,4.604c2.543,0,4.604-2.062,4.604-4.604H10.044z" class="color c2"/>
+  <circle fill="#FBFD2D" cx="11.722" cy="11.24" r="1.632" class="color c3"/>
+  <path fill="#FBFD2D" d="M32.958,0H3.843C1.72,0,0,1.833,0,4.093c0,2.261,1.72,4.093,3.843,4.093h29.115
+	c2.121,0,3.842-1.833,3.842-4.093C36.8,1.833,35.079,0,32.958,0z" class="color c3"/>
+  <path fill="#F8EC3B" d="M55.216,7.686c0,7.996,6.483,14.479,14.479,14.479c7.997,0,14.479-6.48,14.479-14.479H55.216z" class="color c1"/>
+  <path fill="#0A0A0A" d="M61.338,7.686c0,2.542,2.061,4.604,4.604,4.604c2.541,0,4.604-2.062,4.604-4.604H61.338z" class="color c2"/>
+  <circle fill="#FBFD2D" cx="63.017" cy="11.24" r="1.633" class="color c3"/>
+  <path fill="#FBFD2D" d="M84.252,0H55.137c-2.122,0-3.843,1.833-3.843,4.093c0,2.261,1.721,4.093,3.843,4.093h29.115
+	c2.123,0,3.844-1.833,3.844-4.093C88.096,1.833,86.375,0,84.252,0z" class="color c3"/>
+</svg>

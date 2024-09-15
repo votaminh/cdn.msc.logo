@@ -1,0 +1,14 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="200px" height="146.475px" viewBox="0 0 200 146.475" enable-background="new 0 0 200 146.475" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <polygon fill="#FFFFFF" points="199.903,60.655 199.75,60.562 199.75,60.328 199.365,60.328 100.048,0 0.733,60.328 0,60.328 
+		0,146.468 199.75,146.468 199.75,69.146 199.75,69.051 199.75,60.655 	" class="color c1"/>
+    <polygon fill="#DDEDEE" points="199.903,69.146 199.75,69.051 199.75,69.146 	" class="color c2"/>
+    <polygon fill="#DDEDEE" points="100.048,7.665 14.515,60.328 185.582,60.328 	" class="color c2"/>
+    <g>
+      <polygon fill="#EDEDED" points="198.376,145.519 100.048,87.651 1.713,145.523 100.048,90.904 		" class="color c3"/>
+      <polygon fill="#EDEDED" points="200,146.475 199.817,146.367 0.28,146.367 0.097,146.475 		" class="color c3"/>
+      <polygon fill="#FFFFFF" points="199.903,146.367 198.376,145.519 199.817,146.367 		" class="color c1"/>
+      <polygon fill="#FFFFFF" points="0.194,146.367 0.28,146.367 1.713,145.523 		" class="color c1"/>
+    </g>
+  </g>
+</svg>

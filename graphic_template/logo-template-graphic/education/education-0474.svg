@@ -1,0 +1,14 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="136.67px" height="124.706px" viewBox="0 0 136.67 124.706" enable-background="new 0 0 136.67 124.706" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <g>
+      <polygon fill="#DCDDDD" points="0,54.538 68.066,0.054 71.447,52.89 1.617,110.479 		" class="color c1"/>
+      <path fill="#DCDDDD" d="M67.797,61.437l-56.264,44.946l0.646,11.964C12.18,118.347,61.33,73.563,67.797,61.437z" class="color c1"/>
+      <path fill="#DCDDDD" d="M67.096,67.149c0,0-25.06,29.91-43.168,44.461v13.096C23.928,124.706,62.73,91.077,67.096,67.149z" class="color c1"/>
+    </g>
+    <g>
+      <polygon fill="#C9CACA" points="136.67,54.323 67.957,0 67.957,55.78 135.054,110.263 		" class="color c2"/>
+      <path fill="#C9CACA" d="M68.873,61.221l56.264,44.946l-0.646,11.964C124.49,118.131,75.341,73.348,68.873,61.221z" class="color c2"/>
+      <path fill="#C9CACA" d="M69.574,66.934c0,0,25.061,29.91,43.168,44.461v13.097C112.742,124.491,73.939,90.861,69.574,66.934z" class="color c2"/>
+    </g>
+  </g>
+</svg>

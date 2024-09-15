@@ -1,0 +1,17 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="167.488px" height="200.418px" viewBox="0 0 167.488 200.418" enable-background="new 0 0 167.488 200.418" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <polygon fill="#0070A5" points="19.27,143.482 0.404,161.146 112.381,161.146 131.246,143.482 	" class="color c1"/>
+    <polygon fill="#0070A5" points="45.82,68.476 13.246,68.585 0,79.118 32.674,79.118 	" class="color c1"/>
+    <polygon fill="#0070A5" points="153.83,17.625 167.418,0 86.246,0 72.559,17.66 72.596,17.66 72.596,17.625 	" class="color c1"/>
+  </g>
+  <g>
+    <polygon fill="#0C3E51" points="112.959,56.369 112.959,199.646 136.506,179.923 136.506,36.646 136.311,36.646 	" class="color c2"/>
+    <polygon fill="#0C3E51" points="32.674,79.118 32.674,150.354 45.92,132.691 45.92,68.476 45.82,68.476 	" class="color c2"/>
+    <polygon fill="#0C3E51" points="153.83,17.625 153.836,17.625 153.836,56.471 167.488,38.854 167.488,0 167.418,0 	" class="color c2"/>
+  </g>
+  <g>
+    <rect x="0.014" y="79.418" fill="#FFD859" width="33" height="71" class="color c3"/>
+    <polygon fill="#FFD859" points="154.014,17.418 73.014,17.418 73.014,161.418 0.014,161.418 0.014,200.418 112.014,200.418 
+		112.014,199.418 113.014,199.418 113.014,56.418 154.014,56.418 	" class="color c3"/>
+  </g>
+</svg>

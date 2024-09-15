@@ -1,0 +1,29 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="111.212px" height="111.211px" viewBox="0 0 111.212 111.211" enable-background="new 0 0 111.212 111.211" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <g>
+      <g>
+        <path fill="#3A3A3C" d="M55.606,111.211C24.945,111.211,0,86.266,0,55.604C0,24.943,24.945,0,55.606,0
+				s55.606,24.943,55.606,55.604C111.212,86.266,86.267,111.211,55.606,111.211z M55.606,3.984
+				c-28.463,0-51.621,23.156-51.621,51.62s23.157,51.62,51.621,51.62s51.621-23.156,51.621-51.62
+				C107.227,27.141,84.07,3.984,55.606,3.984z" class="color c1"/>
+      </g>
+      <g>
+        <polygon fill="#3A3A3C" points="54.91,98.436 54.91,101.643 56.302,101.643 56.302,98.436 56.302,95.229 54.91,95.229 			" class="color c1"/>
+        <rect x="17.818" y="30.981" transform="matrix(0.5001 -0.866 0.866 0.5001 -20.35 33.1227)" fill="#3A3A3C" width="1.391" height="6.411" class="color c1"/>
+        <rect x="9.57" y="54.908" fill="#3A3A3C" width="6.414" height="1.39" class="color c1"/>
+        <rect x="15.31" y="76.321" transform="matrix(0.8664 -0.4994 0.4994 0.8664 -35.9875 19.5378)" fill="#3A3A3C" width="6.412" height="1.393" class="color c1"/>
+        <rect x="73.813" y="17.815" transform="matrix(0.5004 -0.8658 0.8658 0.5004 22.453 75.93)" fill="#3A3A3C" width="6.412" height="1.39" class="color c1"/>
+        <rect x="54.91" y="9.566" fill="#3A3A3C" width="1.391" height="6.414" class="color c1"/>
+        <rect x="33.496" y="15.304" transform="matrix(0.8659 -0.5003 0.5003 0.8659 -4.6741 19.5884)" fill="#3A3A3C" width="1.391" height="6.412" class="color c1"/>
+        <rect x="30.983" y="92" transform="matrix(0.5006 -0.8657 0.8657 0.5006 -63.1703 75.8906)" fill="#3A3A3C" width="6.413" height="1.391" class="color c1"/>
+        <rect x="76.329" y="89.485" transform="matrix(0.8658 -0.5004 0.5004 0.8658 -36.0463 50.9819)" fill="#3A3A3C" width="1.389" height="6.415" class="color c1"/>
+        <rect x="89.478" y="33.497" transform="matrix(0.8662 -0.4996 0.4996 0.8662 -4.6854 50.881)" fill="#3A3A3C" width="6.414" height="1.389" class="color c1"/>
+        <rect x="95.229" y="54.908" fill="#3A3A3C" width="6.412" height="1.39" class="color c1"/>
+        <rect x="91.999" y="73.812" transform="matrix(0.4997 -0.8662 0.8662 0.4997 -20.3372 118.8247)" fill="#3A3A3C" width="1.393" height="6.412" class="color c1"/>
+        <path fill="#3A3A3C" d="M55.605,60.15c1.031,0,1.971-0.355,2.735-0.934l18.893,8.888L60.092,56.227
+				c0.029-0.207,0.063-0.411,0.063-0.626c0-1.813-1.071-3.367-2.607-4.098l-1.942-30.214l-1.942,30.217
+				c-1.536,0.731-2.606,2.283-2.606,4.099C51.057,58.115,53.094,60.15,55.605,60.15z" class="color c1"/>
+      </g>
+    </g>
+  </g>
+</svg>

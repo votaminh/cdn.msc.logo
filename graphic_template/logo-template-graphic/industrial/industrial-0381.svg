@@ -1,0 +1,8 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="127.483px" height="130.377px" viewBox="0 0 127.483 130.377" enable-background="new 0 0 127.483 130.377" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <path fill="#30178C" d="M0,65.189C0,29.245,29.245,0,65.19,0h44.908c9.603,0,14.137,7.781,14.137,17.384
+		s-4.534,17.385-14.137,17.385H65.189c-16.772,0-30.422,13.647-30.422,30.421s13.649,30.422,30.422,30.422h44.909
+		c9.603,0,17.385,7.78,17.385,17.383s-7.782,17.383-17.385,17.383H65.189C29.244,130.377,0,101.133,0,65.189z" class="color c1"/>
+    <ellipse fill="#FF2A30" cx="111.593" cy="17.351" rx="10.735" ry="15.017" class="color c2"/>
+  </g>
+</svg>

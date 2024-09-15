@@ -1,0 +1,34 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="129.271px" height="86.504px" viewBox="0 0 129.271 86.504" enable-background="new 0 0 129.271 86.504" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <polygon fill="#FAF7F0" points="112.621,50.205 94.753,65.734 94.753,86.504 112.743,70.868 112.743,50.104 " class="color c1"/>
+  <g>
+    <path fill="#355B36" d="M94.753,65.734H5.875c0,0-2.001,0.584-2.001,10.385c0,9.802,2.001,10.385,2.001,10.385h88.878
+		c0,0,1.65-2.216,1.65-10.385C96.405,67.952,94.753,65.734,94.753,65.734z" class="color c2"/>
+    <rect x="18.052" y="65.734" fill="#FAF7F0" width="8.401" height="20.77" class="color c1"/>
+    <rect x="35.129" y="65.734" fill="#FAF7F0" width="4.201" height="20.77" class="color c1"/>
+    <rect x="43.686" y="65.734" fill="#FAF7F0" width="4.201" height="20.77" class="color c1"/>
+  </g>
+  <g>
+    <g>
+      <g>
+        <polygon fill="#84947A" points="32.93,50.253 5.875,65.734 94.753,65.734 112.128,50.633 112.125,50.633 112.128,50.633 
+				112.743,50.098 			" class="color c3"/>
+      </g>
+    </g>
+  </g>
+  <polygon fill="#FAF7F0" points="129.153,24.187 111.286,39.715 111.286,60.484 129.272,44.852 129.272,24.084 " class="color c1"/>
+  <g>
+    <path fill="#355B36" d="M111.286,39.715H22.408c0,0-2.006,0.583-2.006,10.385c0,9.803,2.006,10.385,2.006,10.385h88.878
+		c0,0,1.647-2.215,1.647-10.385C112.934,41.931,111.286,39.715,111.286,39.715z" class="color c2"/>
+    <rect x="72.27" y="39.715" fill="#FAF7F0" width="8.397" height="20.77" class="color c1"/>
+    <rect x="89.344" y="39.715" fill="#FAF7F0" width="4.199" height="20.77" class="color c1"/>
+    <rect x="97.901" y="39.715" fill="#FAF7F0" width="4.201" height="20.77" class="color c1"/>
+  </g>
+  <polygon fill="#84947A" points="49.459,24.234 22.408,39.715 111.286,39.715 128.658,24.612 128.654,24.614 128.658,24.612 
+	129.272,24.08 " class="color c3"/>
+  <polygon fill="#FAF7F0" points="108.75,0.109 90.886,15.637 90.886,36.407 108.869,20.771 108.869,0.005 " class="color c1"/>
+  <path fill="#355B36" d="M90.886,15.637H2.005c0,0-2.005,0.582-2.005,10.385c0,9.802,2.005,10.386,2.005,10.386h88.882
+	c0,0,1.646-2.218,1.646-10.386S90.886,15.637,90.886,15.637z" class="color c2"/>
+  <rect x="6.929" y="15.637" fill="#FAF7F0" width="4.196" height="20.771" class="color c1"/>
+  <rect x="82.987" y="15.637" fill="#FAF7F0" width="4.197" height="20.771" class="color c1"/>
+  <polygon fill="#84947A" points="29.059,0.157 2.005,15.637 90.886,15.637 108.254,0.533 108.254,0.535 108.254,0.533 108.869,0 " class="color c3"/>
+</svg>

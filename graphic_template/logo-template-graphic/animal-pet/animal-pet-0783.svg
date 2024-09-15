@@ -1,0 +1,10 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="59.122px" height="73.902px" viewBox="0 0 59.122 73.902" enable-background="new 0 0 59.122 73.902" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill="#FFFFFF" d="M29.56,73.904C13.302,73.904,0,64.297,0,51.734C0,39.169,13.302,29.563,29.56,29.563
+	c16.26,0,29.563,9.604,29.563,22.171C59.123,63.558,45.82,73.904,29.56,73.904z" class="color c1"/>
+  <circle fill="#7F3C1B" cx="14.78" cy="51.732" r="7.39" class="color c2"/>
+  <circle fill="#7F3C1B" cx="44.341" cy="51.732" r="7.39" class="color c2"/>
+  <path fill="#FFFFFF" d="M0,7.392C0,2.955,2.955-0.001,7.39-0.001c4.434,0,7.39,2.956,7.39,7.393c0,4.434-2.956,7.39-7.39,7.39
+	C2.956,14.781,0,11.085,0,7.392z" class="color c1"/>
+  <path fill="#FFFFFF" d="M51.732,14.781c-4.436,0-7.391-2.956-7.391-7.39c0-4.437,2.955-7.393,7.391-7.393s7.391,2.956,7.391,7.393
+	C59.123,11.085,56.166,14.781,51.732,14.781z" class="color c1"/>
+</svg>

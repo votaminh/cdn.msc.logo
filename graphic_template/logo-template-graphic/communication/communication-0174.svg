@@ -1,0 +1,10 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="457.917px" height="500.204px" viewBox="0 0 457.917 500.204" enable-background="new 0 0 457.917 500.204" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse fill="#FFFFFF" cx="75.369" cy="75.279" rx="75.279" ry="75.279" class="color c1"/>
+    <ellipse fill="#FFFFFF" cx="382.633" cy="75.523" rx="75.279" ry="75.279" class="color c1"/>
+    <path fill="#0547AF" d="M338.254,192.98c40.691,16.276,74.771,13.225,105.291,0h14.24v99.186
+		C438.458,428.483,336.219,492.065,226.86,500.204V414.75L338.254,192.98z" class="color c2"/>
+    <path fill="#FFFFFF" d="M307.227,192.98c-3.053,40.691-36.623,73.245-78.332,73.245c-41.708,0-75.788-32.554-78.331-73.245H0.004
+		l0,0c0,122.584,99.187,221.77,221.77,221.77c122.584,0,221.771-99.186,221.771-221.77l0,0H307.227z" class="color c1"/>
+  </g>
+</svg>

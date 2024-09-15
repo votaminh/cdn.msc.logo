@@ -1,0 +1,28 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="96.893px" height="70.775px" viewBox="0 0 96.893 70.775" enable-background="new 0 0 96.893 70.775" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <rect x="12.161" y="10.885" fill="#A5CE37" width="5.677" height="16.344" class="color c1"/>
+    <rect x="12.161" y="40.035" fill="#A5CE37" width="5.677" height="19.855" class="color c1"/>
+    <rect x="56.756" y="10.885" fill="#A5CE37" width="5.677" height="16.344" class="color c1"/>
+    <rect x="56.756" y="40.035" fill="#A5CE37" width="5.677" height="19.855" class="color c1"/>
+    <rect x="79.054" y="10.885" fill="#A5CE37" width="5.677" height="16.344" class="color c1"/>
+    <rect x="79.054" y="40.035" fill="#A5CE37" width="5.677" height="19.855" class="color c1"/>
+    <rect x="34.458" y="10.885" fill="#A5CE37" width="5.677" height="16.344" class="color c1"/>
+    <polygon fill="#A5CE37" points="34.458,54.585 34.458,57.354 34.458,59.891 40.135,59.891 40.135,57.354 40.135,54.585 
+		40.135,40.035 34.458,40.035 	" class="color c1"/>
+    <polygon fill="#A5CE37" points="82.694,0 82.694,5.645 91.216,5.645 91.216,14.113 96.893,14.113 96.893,0 	" class="color c1"/>
+    <polygon fill="#A5CE37" points="5.677,5.645 14.198,5.645 14.198,0 0,0 0,14.113 5.677,14.113 	" class="color c1"/>
+    <polygon fill="#A5CE37" points="91.216,65.13 82.694,65.13 82.694,70.775 96.893,70.775 96.893,56.663 91.216,56.663 	" class="color c1"/>
+    <polygon fill="#A5CE37" points="5.677,56.663 0,56.663 0,70.775 14.198,70.775 14.198,65.13 5.677,65.13 	" class="color c1"/>
+    <rect x="23.31" y="10.885" fill="#A5CE37" width="5.677" height="16.344" class="color c1"/>
+    <rect x="23.31" y="40.035" fill="#A5CE37" width="5.677" height="8.565" class="color c1"/>
+    <rect x="45.606" y="10.885" fill="#A5CE37" width="5.679" height="16.344" class="color c1"/>
+    <rect x="45.606" y="40.035" fill="#A5CE37" width="5.679" height="19.855" class="color c1"/>
+    <rect x="67.904" y="54.246" fill="#A5CE37" width="5.678" height="5.646" class="color c1"/>
+  </g>
+  <g>
+    <rect x="67.904" y="10.885" fill="#422E41" width="5.678" height="16.344" class="color c2"/>
+    <rect x="67.904" y="40.035" fill="#422E41" width="5.678" height="8.565" class="color c2"/>
+    <rect x="23.31" y="54.246" fill="#422E41" width="5.677" height="5.646" class="color c2"/>
+    <rect x="0" y="30.732" fill="#422E41" width="96.893" height="6.094" class="color c2"/>
+  </g>
+</svg>

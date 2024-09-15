@@ -1,0 +1,10 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="175.631px" height="185.793px" viewBox="0 0 175.631 185.793" enable-background="new 0 0 175.631 185.793" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path opacity="0.9" fill="#DECDD6" d="M106.599,125.749c12.469,25.599,11.435,51.778-2.315,58.474
+	c-13.744,6.698-34.998-8.623-47.469-34.224C44.345,124.398,45.38,98.22,59.129,91.525C72.875,84.828,94.128,100.15,106.599,125.749z
+	" class="color c1"/>
+  <path fill="#B54E8C" d="M43.938,177.471c1.114-4.986,1.708-10.211,1.708-15.594c0-31.031-19.684-56.84-45.646-62.207
+	C22.629,117.678,38.835,145.381,43.938,177.471z" class="color c2"/>
+  <ellipse transform="matrix(-0.8882 -0.4595 0.4595 -0.8882 154.4387 290.4287)" opacity="0.9" fill="#CAACC4" cx="112.558" cy="126.423" rx="68.409" ry="36.739" class="color c3"/>
+  <ellipse transform="matrix(0.4239 0.9057 -0.9057 0.4239 86.3801 -7.9936)" opacity="0.9" fill="#F7BED7" cx="49.474" cy="63.904" rx="68.408" ry="36.739" class="color c4"/>
+  <ellipse transform="matrix(0.4228 -0.9062 0.9062 0.4228 -8.5725 119.7887)" opacity="0.9" fill="#B54E8C" cx="89.751" cy="66.624" rx="68.408" ry="36.737" class="color c2"/>
+</svg>

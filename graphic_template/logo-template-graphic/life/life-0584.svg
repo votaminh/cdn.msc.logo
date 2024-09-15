@@ -1,0 +1,32 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="75.509px" height="75.51px" viewBox="0 0 75.509 75.51" enable-background="new 0 0 75.509 75.51" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <g>
+      <g>
+        <rect x="36.53" fill="#DA281E" width="2.448" height="6.591" class="color c1"/>
+        <rect x="36.53" y="68.919" fill="#DA281E" width="2.448" height="6.591" class="color c1"/>
+      </g>
+      <g>
+        <rect x="68.917" y="36.531" fill="#DA281E" width="6.592" height="2.447" class="color c1"/>
+        <rect y="36.531" fill="#DA281E" width="6.591" height="2.447" class="color c1"/>
+      </g>
+      <g>
+        <rect x="64.302" y="19.302" transform="matrix(0.8658 -0.5003 0.5003 0.8658 -1.2005 36.5745)" fill="#DA281E" width="6.59" height="2.448" class="color c1"/>
+        <rect x="4.617" y="53.761" transform="matrix(0.866 -0.5 0.5 0.866 -26.4324 11.3224)" fill="#DA281E" width="6.589" height="2.449" class="color c1"/>
+      </g>
+      <g>
+        <rect x="51.689" y="6.689" transform="matrix(0.4998 -0.8662 0.8662 0.4998 20.6511 51.5828)" fill="#DA281E" width="6.589" height="2.447" class="color c1"/>
+        <rect x="17.23" y="66.373" transform="matrix(0.5003 -0.8658 0.8658 0.5003 -48.2721 51.5458)" fill="#DA281E" width="6.589" height="2.447" class="color c1"/>
+      </g>
+      <g>
+        <rect x="53.76" y="64.303" transform="matrix(0.8662 -0.4998 0.4998 0.8662 -26.4238 36.5261)" fill="#DA281E" width="2.447" height="6.589" class="color c1"/>
+        <rect x="19.301" y="4.618" transform="matrix(0.8658 -0.5003 0.5003 0.8658 -1.2052 11.3312)" fill="#DA281E" width="2.447" height="6.589" class="color c1"/>
+      </g>
+      <g>
+        <rect x="66.372" y="51.69" transform="matrix(0.5 -0.866 0.866 0.5 -13.8202 86.0337)" fill="#DA281E" width="2.449" height="6.59" class="color c1"/>
+        <rect x="6.688" y="17.231" transform="matrix(0.5002 -0.8659 0.8659 0.5002 -13.8192 17.1104)" fill="#DA281E" width="2.448" height="6.589" class="color c1"/>
+      </g>
+      <rect x="27.324" y="17.29" transform="matrix(0.5415 -0.8407 0.8407 0.5415 -14.0824 38.9004)" fill="#DA281E" width="2.596" height="30.142" class="color c1"/>
+      <rect x="29.379" y="30.809" transform="matrix(0.8634 -0.5045 0.5045 0.8634 -9.69 28.4311)" fill="#DA281E" width="36.567" height="2.604" class="color c1"/>
+    </g>
+  </g>
+</svg>

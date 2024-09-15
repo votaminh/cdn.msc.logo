@@ -1,0 +1,12 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="498.939px" height="500px" viewBox="0 0 498.939 500" enable-background="new 0 0 498.939 500" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path fill="#414193" d="M107.636,82.185l45.069,48.25h239.131l-42.418-48.25C278.898,66.808,196.182,69.989,107.636,82.185z" class="color c1"/>
+    <path fill="#414193" d="M107.636,454.4l45.069,45.6h238.601l-41.888-45.6C260.869,446.978,178.685,444.856,107.636,454.4z" class="color c1"/>
+    <path fill="#414193" d="M0,348.355l46.129,47.721h75.822l-39.767-47.721C55.674,335.102,28.102,338.813,0,348.355z" class="color c1"/>
+    <path fill="#414193" d="M376.988,358.432l46.13,47.719h75.821l-39.767-47.719C424.708,343.055,398.728,346.234,376.988,358.432z" class="color c1"/>
+    <rect x="107.636" fill="#FFFFFF" width="241.782" height="82.185" class="color c2"/>
+    <rect x="107.636" y="372.217" fill="#FFFFFF" width="241.782" height="82.185" class="color c2"/>
+    <rect x="0.256" y="106.104" fill="#FFFFFF" width="82.185" height="241.781" class="color c2"/>
+    <rect x="377.193" y="116.338" fill="#FFFFFF" width="82.186" height="241.781" class="color c2"/>
+  </g>
+</svg>

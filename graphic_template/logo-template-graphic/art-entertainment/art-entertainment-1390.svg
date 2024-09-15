@@ -1,0 +1,13 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="155.763px" height="148.878px" viewBox="0 0 155.763 148.878" enable-background="new 0 0 155.763 148.878" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <path opacity="0.8" fill="#61C46E" d="M78.459,132.136c-26.7-18.389-37.826-48.575-24.85-67.42
+		c12.981-18.846,45.148-19.215,71.851-0.824c26.702,18.389,37.827,48.574,24.848,67.42
+		C137.33,150.157,105.162,150.526,78.459,132.136z" class="color c1"/>
+    <ellipse transform="matrix(0.5672 0.8236 -0.8236 0.5672 106.6321 -0.512)" opacity="0.8" fill="#33A86A" cx="53.803" cy="101.201" rx="41.432" ry="58.707" class="color c2"/>
+    <ellipse transform="matrix(-0.52 0.8542 -0.8542 -0.52 141.0801 59.5599)" opacity="0.8" fill="#90C43D" cx="53.804" cy="69.422" rx="37.425" ry="58.706" class="color c3"/>
+    <path opacity="0.8" fill="#CEDD2E" d="M121.418,98.204c27.696-16.859,41.435-44.84,30.688-62.494
+		c-10.748-17.656-41.912-18.302-69.606-1.443C54.807,51.125,41.066,79.104,51.813,96.76
+		C62.56,114.415,93.726,115.063,121.418,98.204z" class="color c4"/>
+    <ellipse opacity="0.8" fill="#A3D165" cx="77.475" cy="58.706" rx="41.433" ry="58.706" class="color c5"/>
+  </g>
+</svg>

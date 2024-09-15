@@ -1,0 +1,33 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="98.457px" height="234.41px" viewBox="0 0 98.457 234.41" enable-background="new 0 0 98.457 234.41" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <g>
+      <path fill="#E82233" d="M61.075,152.589l9.589-11.942c1.326,5.496,2.727,11.022,4.201,16.582L61.075,152.589z" class="color c1"/>
+      <polygon fill="#E82233" points="75.896,214.77 73.313,207.874 82.791,207.874 		" class="color c1"/>
+      <polygon fill="#E82233" points="81.406,229.452 90.084,234.411 83.266,234.411 		" class="color c1"/>
+      <polygon fill="#E82233" points="82.999,220.165 91.979,211.188 98.457,229.001 		" class="color c1"/>
+      <polygon fill="#E82233" points="72.782,165.855 64.635,176.029 61.098,161.951 		" class="color c1"/>
+      <polygon fill="#E82233" points="56.63,144.025 54.904,137.107 62.146,137.107 		" class="color c1"/>
+      <polygon fill="#E82233" points="53.662,110.571 58.664,110.571 53.662,118.09 		" class="color c1"/>
+      <path fill="#E82233" d="M79.014,172.203c0.885,3.044,1.797,6.086,2.717,9.134H71.707L79.014,172.203z" class="color c1"/>
+      <path fill="#E82233" d="M57.501,128.264l7.724-11.58c0.818,3.873,1.666,7.731,2.543,11.58H57.501z" class="color c1"/>
+    </g>
+    <g>
+      <path fill="#8D8D8D" d="M51.548,26.537c2.341,25.157,5.913,50.323,10.668,75.188h-8.554V75.188h-8.846v26.537h-8.545
+			c4.772-25.17,8.346-50.42,10.642-75.188H51.548z" class="color c2"/>
+      <polygon fill="#8D8D8D" points="49.239,150.921 56.842,181.337 41.637,181.337 		" class="color c2"/>
+      <path fill="#8D8D8D" d="M44.816,4.423c0-2.442,1.98-4.422,4.423-4.422c2.442,0,4.423,1.979,4.423,4.422v13.27h-8.846V4.423z" class="color c2"/>
+      <rect x="0.588" y="190.184" fill="#8D8D8D" width="97.303" height="8.846" class="color c2"/>
+    </g>
+    <g>
+      <polygon fill="#24327E" points="44.816,110.571 44.816,118.09 39.814,110.571 		" class="color c3"/>
+      <polygon fill="#24327E" points="41.849,144.003 36.334,137.107 43.573,137.107 		" class="color c3"/>
+      <path fill="#24327E" d="M37.426,152.605l-13.79,4.601c1.474-5.563,2.875-11.092,4.201-16.582L37.426,152.605z" class="color c3"/>
+      <polygon fill="#24327E" points="37.386,161.945 33.848,176.023 25.701,165.854 		" class="color c3"/>
+      <path fill="#24327E" d="M33.277,116.714l7.7,11.55H30.721C31.597,124.445,32.433,120.605,33.277,116.714z" class="color c3"/>
+      <path fill="#24327E" d="M19.461,172.203l7.311,9.134H16.749C17.669,178.289,18.585,175.247,19.461,172.203z" class="color c3"/>
+      <polygon fill="#24327E" points="15.688,207.874 25.166,207.874 22.583,214.77 		" class="color c3"/>
+      <polygon fill="#24327E" points="15.479,220.173 0,229.02 6.479,211.204 		" class="color c3"/>
+      <polygon fill="#24327E" points="17.072,229.462 15.215,234.411 8.395,234.411 		" class="color c3"/>
+    </g>
+  </g>
+</svg>

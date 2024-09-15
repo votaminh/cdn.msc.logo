@@ -1,0 +1,8 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="180px" height="161.314px" viewBox="0 0 180 161.314" enable-background="new 0 0 180 161.314" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <path fill="#656565" d="M180,89.986v59.713h-51.45V89.986c0-21.252-17.296-38.537-38.55-38.537L74.768,27.992L90,0
+		C139.628,0,180,40.371,180,89.986z M179.755,153.453h-51.101v7.861h51.101V153.453z" class="color c1"/>
+    <path fill="#FD7A5D" d="M90,0v51.449c-21.253,0-38.55,17.285-38.55,38.537v59.713H0V89.986C0,40.371,40.372,0,90,0z
+		 M51.346,153.453H0.245v7.861h51.101V153.453z" class="color c2"/>
+  </g>
+</svg>

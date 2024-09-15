@@ -1,0 +1,13 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="155.414px" height="151.85px" viewBox="0 0 155.414 151.85" enable-background="new 0 0 155.414 151.85" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <polygon fill="#BE2230" points="17.918,100.525 33.129,104.287 29.756,119.584 46.832,147.068 55.584,90.336 0.846,73.041 " class="color c1"/>
+  <circle fill="#BE2230" cx="19.037" cy="113.603" r="8.793" class="color c1"/>
+  <polygon fill="#009345" points="141.533,68.086 129.813,78.486 139.908,90.463 137.566,122.734 103.447,76.572 143.875,35.816 " class="color c2"/>
+  <circle fill="#009345" cx="146.619" cy="80.185" r="8.793" class="color c2"/>
+  <polygon fill="#1B74BA" points="104.336,134.496 90.834,126.541 82.545,139.83 51.117,147.529 84.545,100.865 135.764,126.797 " class="color c3"/>
+  <circle fill="#1B74BA" cx="94.389" cy="143.056" r="8.793" class="color c3"/>
+  <polygon fill="#FB8F22" points="35.246,26.918 36.402,42.545 20.816,44.096 0,68.867 56.643,59.549 56.063,2.146 " class="color c4"/>
+  <circle fill="#FB8F22" cx="23.168" cy="32.048" r="8.793" class="color c4"/>
+  <polygon fill="#8EC343" points="89.938,12.258 96.176,26.631 110.699,20.758 140.643,33.018 86.16,51.096 59.992,0 " class="color c5"/>
+  <path fill="#8EC343" d="M103.67,2.416c-4.842-0.361-9.059,3.271-9.424,8.115c-0.359,4.842,3.273,9.061,8.117,9.422
+	c4.842,0.361,9.061-3.271,9.422-8.113C112.146,6.996,108.514,2.777,103.67,2.416z" class="color c5"/>
+</svg>

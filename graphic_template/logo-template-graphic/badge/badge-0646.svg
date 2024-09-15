@@ -1,0 +1,6 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="326px" height="326px" viewBox="0 0 326 326" enable-background="new 0 0 326 326" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill="#25396B" d="M163,0C73.121,0,0,73.122,0,163s73.121,163,163,163s163-73.122,163-163S252.879,0,163,0z M272.852,272.851
+	C243.51,302.193,204.496,318.353,163,318.353s-80.51-16.16-109.852-45.502S7.646,204.496,7.646,163s16.16-80.508,45.502-109.851
+	S121.504,7.647,163,7.647s80.51,16.16,109.852,45.502S318.354,121.504,318.354,163S302.193,243.508,272.852,272.851z" class="color c1"/>
+  <circle fill="#FC820F" cx="163" cy="163" r="90" class="color c2"/>
+</svg>

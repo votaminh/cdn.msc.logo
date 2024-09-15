@@ -1,0 +1,25 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="88.831px" height="88.83px" viewBox="0 0 88.831 88.83" enable-background="new 0 0 88.831 88.83" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <g>
+      <g>
+        <rect x="43.537" fill="#0D1322" width="1.754" height="5.426" class="color c1"/>
+        <rect x="43.537" y="83.404" fill="#0D1322" width="1.754" height="5.426" class="color c1"/>
+      </g>
+      <g>
+        <rect x="14.048" y="12.215" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -6.1837 14.9266)" fill="#0D1322" width="1.756" height="5.425" class="color c1"/>
+        <rect x="73.025" y="71.19" transform="matrix(0.7073 -0.7069 0.7069 0.7073 -30.6116 73.8756)" fill="#0D1322" width="1.755" height="5.426" class="color c1"/>
+      </g>
+      <g>
+        <rect x="71.19" y="14.049" transform="matrix(0.7071 -0.7071 0.7071 0.7071 11.0914 56.63)" fill="#0D1322" width="5.426" height="1.755" class="color c1"/>
+        <rect x="12.213" y="73.025" transform="matrix(0.7073 -0.7069 0.7069 0.7073 -47.8745 32.1842)" fill="#0D1322" width="5.427" height="1.756" class="color c1"/>
+      </g>
+      <g>
+        <rect x="83.404" y="43.537" fill="#0D1322" width="5.426" height="1.756" class="color c1"/>
+        <rect y="43.537" fill="#0D1322" width="5.426" height="1.756" class="color c1"/>
+      </g>
+    </g>
+    <circle fill="#0D1322" cx="44.414" cy="44.415" r="2.952" class="color c1"/>
+    <polyline fill="#0D1322" points="46.801,46.273 59.881,80.137 44.258,47.232 	" class="color c1"/>
+    <polyline fill="#0D1322" points="44.258,41.463 26.07,23.586 41.641,43.934 	" class="color c1"/>
+  </g>
+</svg>

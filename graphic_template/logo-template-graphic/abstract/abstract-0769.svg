@@ -1,0 +1,11 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="500px" height="500px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill="#F8F59F" d="M300,0H0c73.5,0,87.5,39.5,122.5,98.5C140,128,200,163,200,200h300C500,89.5,410.5,0,300,0z" class="color c1"/>
+  <path fill="#9621AD" d="M200,500h300c-70,0-82-36-117.5-91C362,377.5,300,340,300,300H199.5L124,290L0,300C0,410.5,89.5,500,200,500
+	z" class="color c2"/>
+  <path fill="#3A86C4" d="M200,300V200C200,89.5,110.5,0,0,0v300h123.5H200z" class="color c3"/>
+  <path fill="#F55A21" d="M300,200v100c0,110.5,89.5,200,200,200V200h-94H300z" class="color c4"/>
+  <rect x="300" y="200" opacity="0.12" enable-background="new    " width="200" height="20"/>
+  <rect y="280" opacity="0.12" enable-background="new    " width="200" height="20"/>
+  <path opacity="0.12" enable-background="new    " d="M91.5,0H0c110.5,0,200,89.5,200,200h20C220,111.5,167,35,91.5,0z"/>
+  <path opacity="0.12" enable-background="new    " d="M408.5,500H500c-110.5,0-200-89.5-200-200h-20C280,388.5,333,465,408.5,500z"/>
+</svg>

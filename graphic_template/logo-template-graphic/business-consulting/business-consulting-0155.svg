@@ -1,0 +1,14 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="127.487px" height="123.437px" viewBox="0 0 127.487 123.437" enable-background="new 0 0 127.487 123.437" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <g>
+    <path fill="#FFFFFF" d="M96.178,105.68c0,0,9.116-4.397,21.133-12.353V9.992H27.94l-0.063,17.763H9.622v92.736
+		C29.24,126.075,57.299,125.038,96.178,105.68z" class="color c1"/>
+    <g>
+      <path fill="#E80000" d="M28.618,0L0,27.262v89.715c2.952,1.337,6.156,2.528,9.622,3.515V27.755h18.256L27.94,9.992h89.371v83.335
+			c3.223-2.135,6.654-4.525,10.176-7.156V0H28.618z" class="color c2"/>
+      <rect x="19.367" y="38.857" fill="#E80000" width="62.418" height="3.699" class="color c2"/>
+      <rect x="19.367" y="83.265" fill="#E80000" width="62.418" height="3.701" class="color c2"/>
+      <rect x="19.367" y="53.845" fill="#E80000" width="88.754" height="3.701" class="color c2"/>
+      <rect x="19.367" y="68.462" fill="#E80000" width="88.754" height="3.701" class="color c2"/>
+    </g>
+  </g>
+</svg>

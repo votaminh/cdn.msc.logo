@@ -1,0 +1,10 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="500px" height="500px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill="#FFFFFF" d="M129.722,156.111L0,156.389v187.5h129.722L223.611,250L129.722,156.111z M113.611,305H38.889v-35.556h58.333
+	v-38.889H38.889v-35.278L113.611,195l55,55L113.611,305z" class="color c1"/>
+  <path fill="#FFFFFF" d="M156.111,370.277V500h187.5V370.277L250,276.389L156.111,370.277z M305,461.111h-35.556v-58.334h-38.889
+	v58.334h-35.278v-74.723l54.722-55l55,54.723V461.111z" class="color c1"/>
+  <path fill="#FFFFFF" d="M343.889,129.723V0h-187.5v129.723L250,223.611L343.889,129.723z M195.278,38.889h35.278v58.334h38.889
+	V38.889H305v74.723l-55,55l-54.722-55V38.889z" class="color c1"/>
+  <path fill="#FFFFFF" d="M370.277,156.389L276.389,250l93.889,93.889H500v-187.5H370.277L370.277,156.389z M386.389,305l-55-55l55-55
+	h74.723v0.277v35.278h-58.334v38.889h58.334V305H386.389z" class="color c1"/>
+</svg>

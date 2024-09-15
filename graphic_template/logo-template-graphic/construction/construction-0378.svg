@@ -1,0 +1,20 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="278.395px" height="137.868px" viewBox="0 0 278.395 137.868" enable-background="new 0 0 278.395 137.868" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect x="0" y="100.135" fill="#F0E9C9" width="278.395" height="19.244" class="color c1"/>
+    <path fill="#F0E9C9" d="M36.739,137.87H0V83.467c0-10.145,8.225-18.37,18.369-18.37l0,0c10.146,0,18.369,8.225,18.369,18.37V137.87
+		z" class="color c1"/>
+    <circle fill="#347169" cx="18.369" cy="109.756" r="9.623" class="color c2"/>
+    <path fill="#F0E9C9" d="M97.153,137.87H60.414V33.604c0-10.146,8.225-18.371,18.369-18.371l0,0
+		c10.146,0,18.369,8.225,18.369,18.371V137.87z" class="color c1"/>
+    <circle fill="#347169" cx="78.783" cy="109.756" r="9.623" class="color c2"/>
+    <path fill="#F0E9C9" d="M157.568,137.87h-36.739v-119.5C120.828,8.225,129.054,0,139.198,0l0,0
+		c10.146,0,18.369,8.225,18.369,18.369V137.87L157.568,137.87z" class="color c1"/>
+    <circle fill="#347169" cx="139.198" cy="109.756" r="9.623" class="color c2"/>
+    <path fill="#F0E9C9" d="M217.981,137.87h-36.738V33.604c0-10.146,8.225-18.371,18.369-18.371l0,0
+		c10.146,0,18.369,8.225,18.369,18.371V137.87L217.981,137.87z" class="color c1"/>
+    <circle fill="#347169" cx="199.612" cy="109.756" r="9.623" class="color c2"/>
+    <path fill="#F0E9C9" d="M278.395,137.87h-36.738V83.467c0-10.145,8.225-18.37,18.369-18.37l0,0c10.146,0,18.369,8.225,18.369,18.37
+		V137.87z" class="color c1"/>
+    <circle fill="#347169" cx="260.026" cy="109.756" r="9.623" class="color c2"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="223.418px" height="150.955px" viewBox="0 0 223.418 150.955" enable-background="new 0 0 223.418 150.955" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path opacity="0.9" fill="#E89746" enable-background="new    " d="M23.805,87.813l64.785,63.142L73.35,55.67
+	C73.35,55.67,33.813,63.729,23.805,87.813z" class="color c1"/>
+  <path opacity="0.9" fill="#3AA58C" enable-background="new    " d="M109.109,54.228l11.067,89.787L167.87,60.13
+	C167.871,60.13,131.979,41.692,109.109,54.228z" class="color c2"/>
+  <path opacity="0.9" fill="#665422" enable-background="new    " d="M153.216,58.764L132.42,146.81l73.854-62.106
+	C206.271,84.702,179.016,54.951,153.216,58.764z" class="color c3"/>
+  <rect x="8.884" y="28.101" transform="matrix(-0.6767 0.7363 -0.7363 -0.6767 51.8722 60.8107)" fill="#E89746" width="7.4" height="27.387" class="color c1"/>
+  <rect x="44.027" y="31.571" transform="matrix(-0.9539 -0.3 0.3 -0.9539 78.8738 95.5807)" fill="#E89746" width="5.495" height="20.329" class="color c1"/>
+  <path opacity="0.9" fill="#D8531E" enable-background="new    " d="M64.48,61.422l36.061,82.97l21.965-93.966
+	C122.506,50.426,82.86,42.918,64.48,61.422z" class="color c4"/>
+  <rect x="112.916" y="21.48" transform="matrix(-0.9539 -0.3001 0.3001 -0.9539 216.4945 96.545)" fill="#D8531E" width="5.492" height="20.33" class="color c4"/>
+  <rect x="74.706" y="1.555" transform="matrix(-0.9562 0.2929 -0.2929 -0.9562 154.9424 0.2416)" fill="#D8531E" width="5.494" height="20.328" class="color c4"/>
+  <rect x="71.599" y="28.566" transform="matrix(-0.6241 0.7813 -0.7813 -0.6241 148.0641 1.6587)" fill="#D8531E" width="4.068" height="15.76" class="color c4"/>
+  <rect x="136.946" y="0.338" transform="matrix(-0.9653 -0.2612 0.2612 -0.9653 271.5901 53.0768)" fill="#3AA58C" width="4.752" height="16.305" class="color c2"/>
+  <rect x="141.575" y="22.886" transform="matrix(-0.6953 -0.7187 0.7187 -0.6953 220.9098 159.7592)" fill="#3AA58C" width="5.493" height="20.329" class="color c2"/>
+  <rect x="206.555" y="55.379" transform="matrix(-0.1482 -0.989 0.989 -0.1482 175.5075 282.2499)" fill="#665422" width="5.494" height="20.33" class="color c3"/>
+  <rect x="208.245" y="25.314" transform="matrix(-0.7782 -0.628 0.628 -0.7782 352.3924 202.456)" fill="#665422" width="7.4" height="27.381" class="color c3"/>
+  <rect x="168.416" y="38.331" transform="matrix(-0.9213 0.3889 -0.3889 -0.9213 345.455 22.5027)" fill="#665422" width="4.068" height="15.761" class="color c3"/>
+</svg>

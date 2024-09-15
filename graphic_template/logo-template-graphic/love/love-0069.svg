@@ -1,0 +1,8 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="200px" height="166.352px" viewBox="0 0 200 166.352" enable-background="new 0 0 200 166.352" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill-rule="evenodd" clip-rule="evenodd" fill="#01B6AD" d="M100,166.352C84.122,159.213,0,110.407,0,52.751
+	C0,18.066,32.452,0,54.943,0C77.434,0,94.603,12.594,100,23.929C105.397,12.594,122.566,0,145.058,0S200,18.066,200,52.751
+	C200,110.407,115.879,159.213,100,166.352z" class="color c1"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M100,147.202c-12.223-5.494-76.977-43.063-76.977-87.445
+	c0-26.699,24.981-40.605,42.294-40.605S95.845,28.846,100,37.57c4.155-8.724,17.371-18.419,34.684-18.419
+	c17.312,0,42.293,13.906,42.293,40.605C176.977,104.138,112.223,141.708,100,147.202z" class="color c2"/>
+</svg>

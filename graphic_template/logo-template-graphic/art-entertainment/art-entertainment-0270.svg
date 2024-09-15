@@ -1,0 +1,7 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="100px" height="94px" viewBox="0 0 100 94" enable-background="new 0 0 100 94" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill="#D9008C" d="M100,8.509c-0.012-4.296-2.611-8.295-5.787-8.295H80v94h14.213c3.176,0,5.775-3.026,5.787-7.317V8.509z" class="color c1"/>
+  <rect x="60" y="0.213" fill="#00C5F4" width="20" height="94" class="color c2"/>
+  <rect x="40" y="0.213" fill="#80EBC6" width="20" height="94" class="color c3"/>
+  <rect x="20" y="0.213" fill="#F4F500" width="20" height="94" class="color c4"/>
+  <path fill="#FFD217" d="M20,0.213H5.789C2.606,0.213,0,4.227,0,8.535v78.333c0,4.304,2.606,7.345,5.789,7.345H20V0.213z" class="color c5"/>
+</svg>

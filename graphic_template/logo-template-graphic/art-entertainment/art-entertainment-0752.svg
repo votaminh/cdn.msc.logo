@@ -1,0 +1,11 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="127.867px" height="100.807px" viewBox="0 0 127.867 100.807" enable-background="new 0 0 127.867 100.807" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <path fill="#FBC024" d="M13.009,0C5.823,0,0.005,5.824,0,13.001v74.821c0.005,7.07,5.655,12.813,12.692,12.983h17.494V0H13.009z" class="color c1"/>
+  <rect x="25.573" y="0" fill="#D7DF3A" width="30.186" height="100.807" class="color c2"/>
+  <rect x="51.146" y="0" fill="#83C7AE" width="30.186" height="100.807" class="color c3"/>
+  <rect x="76.719" y="0" fill="#06B0E1" width="30.187" height="100.807" class="color c4"/>
+  <path fill="#B92887" d="M114.953,0h-12.66v100.807h12.977c6.523-0.156,11.855-5.114,12.598-11.477V11.489
+	C127.11,5.025,121.619,0,114.953,0z" class="color c5"/>
+  <path opacity="0.2" fill="#FFFFFF" enable-background="new    " d="M106.905,0h-4.612H81.332h-4.612h-20.96h-4.613H30.187h-4.613
+	H13.009C5.823,0,0.005,5.824,0,13.001v58.337C41.009,24.033,107.826,7.33,124.162,3.847C121.808,1.477,118.557,0,114.953,0H106.905z
+	" class="color c6"/>
+</svg>

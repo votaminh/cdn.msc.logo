@@ -1,0 +1,8 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="290px" height="60.982px" viewBox="0 0 290 60.982" enable-background="new 0 0 290 60.982" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <polygon fill="#AD8B63" points="18.723,9.653 0,9.653 10.086,35.319 0,60.983 39.499,60.983 18.723,51.33 " class="color c1"/>
+  <polygon fill="#AD8B63" points="290,9.653 271.279,9.653 271.279,51.33 250.501,60.983 290,60.983 279.916,35.319 " class="color c1"/>
+  <polygon fill="#111111" points="39.499,60.983 39.499,51.33 18.723,51.33 " class="color c2"/>
+  <polygon fill="#111111" points="250.501,51.33 250.501,60.983 271.279,51.33 " class="color c2"/>
+  <polygon fill="#CEAA7A" points="145,0 18.723,0 18.723,9.653 18.723,51.33 39.499,51.33 145,51.33 250.501,51.33 271.279,51.33 
+	271.279,9.653 271.279,0 " class="color c3"/>
+</svg>

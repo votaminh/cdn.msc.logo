@@ -1,0 +1,10 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="316.5px" height="69.234px" viewBox="0 0 316.5 69.234" enable-background="new 0 0 316.5 69.234" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <polygon fill="#FFFFFF" points="294.453,43.196 309.704,20.816 259.084,20.816 259.084,65.578 309.704,65.578 " class="color c1"/>
+  <polygon fill="#FFFFFF" points="6.068,65.578 56.688,65.578 56.688,20.816 6.068,20.816 21.319,43.196 " class="color c1"/>
+  <polygon fill="#C6932C" points="298.757,43.196 316.5,17.159 259.084,17.159 259.084,24.475 302.908,24.475 290.15,43.196 
+	302.908,61.92 259.084,61.92 259.084,69.235 316.5,69.235 " class="color c2"/>
+  <polygon fill="#C6932C" points="12.193,61.92 22.631,43.196 12.194,24.475 56.688,24.475 56.688,17.159 0,17.159 14.516,43.196 
+	0,69.235 56.688,69.235 56.688,61.92 " class="color c2"/>
+  <rect x="38.521" y="3.658" fill="#FFFFFF" width="238.729" height="47.744" class="color c1"/>
+  <path fill="#C6932C" d="M280.908,55.061H34.864V0h246.044V55.061L280.908,55.061z M42.179,47.746h231.413V7.315H42.179V47.746z" class="color c2"/>
+</svg>

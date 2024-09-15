@@ -1,0 +1,10 @@
+<svg version="1.1" id="图层_1" x="0px" y="0px" width="125.953px" height="126.396px" viewBox="0 0 125.953 126.396" enable-background="new 0 0 125.953 126.396" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <ellipse fill="#3B385C" cx="62.976" cy="61.577" rx="62.977" ry="61.577" class="color c1"/>
+  <path fill="#FFFFFF" d="M26.334,103.749h72.725c12.203-10.102,19.959-25.181,19.959-42.04c0-30.415-25.215-55.07-56.322-55.07
+	c-31.105,0-56.321,24.655-56.321,55.07C6.375,78.568,14.131,93.647,26.334,103.749z" class="color c2"/>
+  <path fill="#E94E3B" d="M19.441,126.396h87.071c3.731-0.441,6.639-3.581,6.639-7.433c0-4.153-3.366-7.521-7.521-7.521H20.324
+	c-4.154,0-7.522,3.367-7.522,7.521C12.802,122.815,15.709,125.955,19.441,126.396z" class="color c3"/>
+  <circle fill="#40B1AB" cx="62.976" cy="59.466" r="25.43" class="color c4"/>
+  <circle fill="#3B385C" cx="62.977" cy="59.466" r="19.274" class="color c1"/>
+  <circle fill="#FFFFFF" cx="71.973" cy="50.296" r="3.904" class="color c2"/>
+</svg>

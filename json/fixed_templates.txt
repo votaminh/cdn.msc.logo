@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3-piece-blue-puzzle",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "id": "10-ball-billiard",
+    "width": 500,
+    "height": 500
+  }
+]

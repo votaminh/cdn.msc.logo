@@ -1,12 +1,47 @@
 [
   {
-    "id": "3-piece-blue-puzzle",
-    "width": 500,
-    "height": 500
+    "width": 1116,
+    "id": "10-ball-billiard",
+    "height": 1116
   },
   {
-    "id": "10-ball-billiard",
-    "width": 500,
-    "height": 500
+    "width": 1116,
+    "id": "3-piece-blue-puzzle",
+    "height": 1116
+  },
+  {
+    "width": 1220,
+    "id": "3D-blue-triangle-shape-pentagon",
+    "height": 1220
+  },
+  {
+    "width": 1220,
+    "id": "3d-blue-water-drop",
+    "height": 1220
+  },
+  {
+    "width": 1220,
+    "id": "3d-blue-water-drop-icon",
+    "height": 1220
+  },
+  {
+    "width": 1220,
+    "id": "3d-box-and-film",
+    "height": 1220
+  },
+  {
+    "width": 1220,
+    "id": "3d-box-speed-courier",
+    "height": 1220
+  },
+  {
+    "width": 1220,
+    "id": "3d-brown-letter-e",
+    "height": 1220
+  },
+  {
+    "width": 1220,
+    "id": "3d-camera-and-photo",
+    "height": 1220
   }
 ]
